@@ -9,10 +9,6 @@ import { RevenueChartSkeleton, LatestInvoicesSkeleton, CardSkeleton } from '@/ap
 
  
 export default async function Page() {
-  
-  
- 
-
 
   return (
     <main>
